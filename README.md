@@ -12,9 +12,9 @@ This solution is a hybridation between GWO and Genetic Algorithm to solve TSP pr
 
 ### Contributors : 
 
-MEDDAH Khaled Fouad : jk_meddah@esi.dz
-EL HAOUARI moaud : jm_elhaouari@esi.dz
-HEBBAL zakaria : jz_hebbal@esi.dz
-BENTAYEB mohamed el amine : jm_bentayeb@esi.dz
-BOUTEBICHA ihssan : ji_boutebicha@esi.dz 
-BAKHOUCHE selsabil belkis : js_bakhouche@esi.dz
+- MEDDAH Khaled Fouad : jk_meddah@esi.dz
+- EL HAOUARI moaud : jm_elhaouari@esi.dz
+- HEBBAL zakaria : jz_hebbal@esi.dz
+- BENTAYEB mohamed el amine : jm_bentayeb@esi.dz
+- BOUTEBICHA ihssan : ji_boutebicha@esi.dz 
+- BAKHOUCHE selsabil belkis : js_bakhouche@esi.dz
